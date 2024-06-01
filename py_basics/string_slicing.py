@@ -1,2 +1,3 @@
-slice1 = sample_string[0:5]
-print(f"Slice [0:5]: '{slice1}'")
+my_string = "Hello"
+print(my_string[0])
+print(my_string[1])
