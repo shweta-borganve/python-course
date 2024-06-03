@@ -1,5 +1,9 @@
-def hello():
-    print('Hello world!')
+print('hello world')
 
-import module
-mymodule.hello()
+def abc():
+    print('this message is from abc function')
+
+def main():
+    print('this message is from main function')
+    abc()
+
