@@ -1,3 +1,3 @@
-f = open("demo.txt", "r+")
+f = open("demo.txt", "a+")
 f.write("abc")
 f.close()
