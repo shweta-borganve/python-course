@@ -3,3 +3,5 @@ class Student:
         self.name = fullname
     def hello(self):
         print("hello",self.name)
+student = Student("shweta")
+student.hello()
