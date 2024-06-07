@@ -1,4 +1,4 @@
-with open("demo.txt","r") as f:
-    data = f.read(4)
-    print(data)
-    print(type(data))
+f = open("demo.txt","r")
+line1 = f.readline()
+print(line1)
+f.close()
