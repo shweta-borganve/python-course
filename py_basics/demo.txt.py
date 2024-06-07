@@ -1,4 +1,3 @@
-f = open("demo.txt","a+")
-f.write("abcd")
-print(f.read())
-f.close()
+with open("demo.txt","r") as f:
+    data = f.read()
+    print(data)
