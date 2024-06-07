@@ -1,4 +1,4 @@
-f = open("demo.txt","r+")
+f = open("demo.txt","w+")
 f.write("abcd")
 print(f.read())
 f.close()
