@@ -1,5 +1,5 @@
-f = open("demo.txt","w")
+f = open("demo.txt","a")
 
-f.write("i want to learn python")
+f.write("i want to learn python and C program")
 
 f.close()
