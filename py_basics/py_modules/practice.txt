@@ -1,2 +1,1 @@
-I am learning python.
-and I should perfect in python 
+java
