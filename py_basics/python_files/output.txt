@@ -1,1 +1,1 @@
-This is a test.
+HELLO, THIS IS A SAMPLE FILE.
