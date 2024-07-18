@@ -9,8 +9,10 @@
     # pkgs.go
     pkgs.python3
     pkgs.gcc
-    # pkgs.python311Packages.pip
-    # pkgs.nodejs_20
+    pkgs.python311Packages.pip
+    pkgs.nodejs_20
+    pkgs.sudo
+    pkgs.apt
     # pkgs.nodePackages.nodemon
   ];
 
