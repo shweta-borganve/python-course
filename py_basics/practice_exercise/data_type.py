@@ -10,3 +10,6 @@ weight = 45.5 #float
 
 age_float = float(age)
 print(type(age_float))
+
+s="100"
+print(int(s)+age)
